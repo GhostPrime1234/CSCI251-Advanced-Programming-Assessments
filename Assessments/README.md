@@ -8,7 +8,7 @@
 - [Compilation and Execution](#compilation-and-execution)
   - [Compilation](#compilation)
   - [Execution](#execution)
-- [Lab Descriptions](#Assignment-descriptions)
+- [Assignment Descriptions](#Assignment-descriptions)
   - [Assignment 1: Crowdsourcing System](#Assignment-1-crowdsourcing-system)
   - [Assignment 2: Issues and Stances](#Assignment-2-issues-and-stances)
   - [Assignment 3: Hexadecimal Numbers Processing](#Assignment-3-hexadecimal-numbers-processing)
