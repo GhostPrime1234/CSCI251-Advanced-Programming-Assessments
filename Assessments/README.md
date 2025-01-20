@@ -1,7 +1,3 @@
-Sure! Below is the README file formatted according to your specifications.
-
----
-
 # Advanced Programming Labs (CSCI251)
 
 ## Table of Contents
@@ -137,7 +133,3 @@ Michael McMillan
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to modify any sections as needed!
