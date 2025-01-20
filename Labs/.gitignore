@@ -1,0 +1,4 @@
+*.exe
+**/Files/
+.vscode
+Lab4/Task4/
